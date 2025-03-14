@@ -5,7 +5,7 @@
 apt install git curl -y
 ```
 ```
-git clone https://github.com/alijayanet/update
+git clone https://github.com/ucuporg/gacupdate
 ```
 BACKUP SETINGAN GENIEACS YANG SUDAH ADA 
 ```
